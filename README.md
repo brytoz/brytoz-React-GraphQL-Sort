@@ -2,7 +2,8 @@
 ## OZEE FC
 
 The application is called OZEE FC and it is a club related application
-This simple applicatino just registers the date players resumed training and shows the njured player from the Interatinal break ad avaialable players as well as thier nationality as provided by the data in the server side.
+This simple application just registers  the date players resumed training and shows the injured player from the Interatinal break ad avaialable players as well as thier nationality as provided by the data in the server side.
+By default, Onload, the players are displayed.
 
 The application is powered by the serverside which is run at port 5000
 The frontend, React in this case, ir run at Port 3000.
